@@ -3,3 +3,5 @@
 - Exercícios online do URI online judge
 
 > <a href="https://www.urionlinejudge.com.br"> URI ONLINE JUDGE </a>
+# Objetivo
+> **Realizar a maior quantidade de atividades no uri S2**
